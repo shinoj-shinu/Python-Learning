@@ -26,3 +26,4 @@ print(len(my_string))
 
 print(my_string[0])
 print(my_string[4])
+print(123)
