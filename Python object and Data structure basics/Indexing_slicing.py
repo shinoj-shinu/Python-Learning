@@ -26,3 +26,23 @@ print(len(my_string))
 
 print(my_string[0])
 print(my_string[4])
+print(my_string[-3])
+
+##slicing
+my_string = "abcfdhfkh"
+print(my_string[2])
+print(my_string[2:])
+print(my_string[:2])
+print(my_string[2:6])
+print(my_string[2:])
+print(my_string[:2])
+print(my_string[::3])
+print(my_string[2:7:2])
+print(my_string[::-1])
+
+a = "helloworld"
+print(a[7])
+
+b = "tinker"
+print(b[1:4])
+
