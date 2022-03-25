@@ -46,3 +46,4 @@ print(a[7])
 b = "tinker"
 print(b[1:4])
 
+

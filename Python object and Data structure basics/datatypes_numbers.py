@@ -34,3 +34,9 @@ print(2 + 3 - 1 * 3)
 
 # Can use parentheses to specify orders
 print((2+10) * (10+3))
+
+a = "shinoj"
+print(a)
+
+a = "shinu"
+print(a)
