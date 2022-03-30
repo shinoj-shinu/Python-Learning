@@ -8,6 +8,8 @@ elif statement # some_other_condition
 else statement # do something different
 """
 
+#examples
+
 if True:
     print("its true")
 
@@ -62,3 +64,4 @@ elif loc == "store":
     print("welcome to the store")
 else:
     print("i do not know much")
+
